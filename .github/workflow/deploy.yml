@@ -1,4 +1,5 @@
 name: Deploy Java App
+runs-on: self-hosted
 
 on:
   push:
